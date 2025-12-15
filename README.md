@@ -3,7 +3,7 @@
 
 🎓 **BSc in Computer Engineering** @ University of Bologna (Alma Mater Studiorum)
 
-📚 Master's Degree in progress... `[Loading...]`
+📚 Master's Degree `[Loading...]`
 
 ⚡ Fun fact: I love **food** and do a lot of **other things**, check my [**bento**](https://bento.me/justwhitee)🍱
 
