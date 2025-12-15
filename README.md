@@ -7,9 +7,7 @@
 
 ⚡ Fun fact: I love **food** and do a lot of **other things**, check my [**bento**](https://bento.me/justwhitee)🍱
 
-![](https://github-readme-stats.vercel.app/api?username=itsjustwhitee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=itsjustwhitee&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsjustwhitee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-contributor-stats.vercel.app/api?username=itsjustwhitee&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
