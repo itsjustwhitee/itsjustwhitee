@@ -35,5 +35,5 @@
 <p align="left">
 <a href="https://instagram.com/matteo.ttf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@matteo.ttf" height="30" width="40" /></a>
 <a href="https://t.me/justwhitee" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="@justwhitee" height="32" width="43" />  </a>
-<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bi%2B7AD38%2FQzeHHEBUvbZLuw%3D%3D" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Matteo Fontolan" height="32" width="30" /></a>
+<a href="http://www.linkedin.com/in/justwhitee" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Matteo Fontolan" height="32" width="30" /></a>
 </p>
