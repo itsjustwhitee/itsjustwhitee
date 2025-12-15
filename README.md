@@ -7,6 +7,8 @@
 
 ⚡ Fun fact: I love **food** and do a lot of **other things**, check my [**bento**](https://bento.me/justwhitee)🍱
 
+<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=itsjustwhitee&theme=dark&hide_border=false)<br/>
 
 ![](https://github-contributor-stats.vercel.app/api?username=itsjustwhitee&limit=5&theme=dark&combine_all_yearly_contributions=true)
