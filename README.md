@@ -5,7 +5,9 @@
 
 📚 Master's Degree `[Loading...]`
 
-⚡ Fun fact: I love **food** and do a lot of **other things**, check my [**bento**](https://itsjustwhitee.github.io/bento/)🍱
+⚡ Fun fact: I love **food** and do a lot of **other things**, check my [**bento**](https://justwhitee.org/bento/)🍱
+
+Also check my website! [**justwhitee.org**](https://justwhitee.org)
 
 <br/>
 
