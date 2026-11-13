@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://images.weserv.nl/?url=justwhitee.org/assets/propic.webp&mask=circle" width="250" alt="Matteo Fontolan" />
+  <img src="https://images.weserv.nl/?url=justwhitee.com/assets/propic.webp&mask=circle" width="250" alt="Matteo Fontolan" />
   <h1>Matteo Fontolan</h1>
   <p><i>Computer Engineering • Creative Design</i></p>
   <p>
-    <a href="https://justwhitee.org"><b>🌐 Website</b></a> &nbsp;•&nbsp;
-    <a href="https://justwhitee.org/bento"><b>🍱 Bento</b></a> &nbsp;•&nbsp;
-    <a href="https://justwhitee.org/cv/"><b>📄 CV</b></a>
+    <a href="https://justwhitee.com"><b>🌐 Website</b></a> &nbsp;•&nbsp;
+    <a href="https://justwhitee.com/bento"><b>🍱 Bento</b></a> &nbsp;•&nbsp;
+    <a href="https://justwhitee.com/cv/"><b>📄 CV</b></a>
   </p>
 </div>
 
@@ -53,7 +53,7 @@ Curious about what I'm building? <br>
   </a>
   &emsp;
   <a href="https://t.me/justwhitee">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="32" />
+    <img src="https://upload.wikimedia.com/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="32" />
   </a> 
   &emsp;
   <a href="https://linkedin.com/in/justwhitee">
