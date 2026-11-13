@@ -16,7 +16,7 @@ I'm a **Computer Engineering** student at the University of Bologna (*Alma Mater
 
 I love digging into how things actually work and I define myself as a practical person. 
 
-When I'm not staring at a terminal, I'm likely eating sushi 🍣, or drawing caricatures or overthinking a graphic design layout 🖱️.
+When I'm not staring at a terminal, I'm likely eating sushi 🍣, or printing and assembling something or overthinking a design layout 🖱️.
 
 *I believe knowledge is worthless if it's not shared.*
 
@@ -40,7 +40,7 @@ When I'm not staring at a terminal, I'm likely eating sushi 🍣, or drawing car
 
 ### `// 03 — recent projects`
 Curious about what I'm building? <br>
-🚀 **[Go check my latest projects on my website!](https://justwhitee.org/#projects)**
+🚀 **[Go check my latest projects on my website!](https://justwhitee.com/projects)**
 
 <br>
 
@@ -48,7 +48,7 @@ Curious about what I'm building? <br>
 
 <p align="left">
   &ensp;
-    <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#97;&#116;&#116;&#101;&#111;&#46;&#102;&#111;&#110;&#116;&#111;&#108;&#97;&#110;&#64;&#106;&#117;&#115;&#116;&#119;&#104;&#105;&#116;&#101;&#101;&#46;&#111;&#114;&#103;">
+  <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#97;&#116;&#116;&#101;&#111;&#46;&#102;&#111;&#110;&#116;&#111;&#108;&#97;&#110;&#64;&#106;&#117;&#115;&#116;&#119;&#104;&#105;&#116;&#101;&#101;&#46;&#99;&#111;&#109;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" alt="Email" height="32" />
   </a>
   &emsp;
